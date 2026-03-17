@@ -13,4 +13,4 @@
 ### O meni 🚀
 👨‍💻 Full-stack developer  
 
-![Pregledi](https://api.visitorbadge.io/api/VisitorHit?user=nikolaradenkovic-bytef&repo=github-visitors-badge&countColor=%237B1E7A)
+![visitors](https://api.visitorbadge.io/api/VisitorHit?user=nikolaradenkovic-byte&repo=github-visitors-badge&countColor=%237B1E7A&label=Pregledi)
