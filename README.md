@@ -1,16 +1,16 @@
-## Hi there 👋
+## Zdravo, ja sam [Nikola Radenkovic!](https://www.linkedin.com/in/nikola-radenkovic-ab746b3b7/) 
 
-<!--
-**nikolaradenkovic-byte/nikolaradenkovic-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/nikola-radenkovic-ab746b3b7/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
+</a>
 
-Here are some ideas to get you started:
+<a href="mailto:nikolaradenkovic04@gmail.com">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### O meni 🚀
+👨‍💻 Full-stack developer  
+
+![visitors](https://api.visitorbadge.io/api/VisitorHit?user=nikolaradenkovic-bytef&repo=github-visitors-badge&countColor=%237B1E7A)
